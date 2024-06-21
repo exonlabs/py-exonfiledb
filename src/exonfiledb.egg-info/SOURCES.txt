@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/exonfiledb/__init__.py
+src/exonfiledb/collection.py
+src/exonfiledb/defs.py
+src/exonfiledb/engines.py
+src/exonfiledb/index.py
+src/exonfiledb/query.py
+src/exonfiledb.egg-info/PKG-INFO
+src/exonfiledb.egg-info/SOURCES.txt
+src/exonfiledb.egg-info/dependency_links.txt
+src/exonfiledb.egg-info/not-zip-safe
+src/exonfiledb.egg-info/top_level.txt
